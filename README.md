@@ -30,6 +30,7 @@ oportunidiades de empregos e chats de diversas linguagens para você tirar dúvi
 Faça um [github](https://github.com) logo no primeiro dia dos seus estudos e coloque exatamente tudo lá. Github é uma ferramenta de versionamento de código usado por quase todas as empresas e vai ser muito importante você saber usar.
 Além disso, lá é uma "rede social" de códigos, onde recrutadores e outros desenvolvedores vão poder ver seus códigos e vai ser uma espécie de currículo para você,você vai ver que cada dia que você coloca um código lá
 vai preencher o dia com um quadradinho verde como mostrado na imagem abaixo, isso vai mostrar que pelo menos você tem alguma experiência codando.
+[Aqui](https://www.udemy.com/course/git-e-github-para-iniciantes/) você pode fazer um curso gratuito de Git e Github para iniciantes.
 
 ![github-contribuitions](assets/github-contributions.png)
 
