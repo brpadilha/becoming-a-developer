@@ -1,6 +1,6 @@
 # Se tornando um desenvolvedor
 
-Olá, Meu nome é Bruno Padilha e sou engenheiro de software desde 2019.
+Olá, Meu nome é Bruno Padilha e trabalho como engenheiro de software desde o começo de 2020.
 
 Eu me formei em engenharia mecânica no final de 2018 e acabei ficando alguns meses sem conseguir emprego como engenheiro mecânico, com isso
 acabei decidindo migrar para área de desenvolvimento de software. E muitos amigos acabam sempre me perguntando o que eu
