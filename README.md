@@ -126,6 +126,16 @@ e postando no LinkedIn. Em algum momento alguém irá te notar.
 
 Lembre-se, quem não é visto, não é lembrado.
 
+## 7 - Livros
+
+Caso você goste de ler, tem alguns livros muito importantes que você pode estar lendo, aqui estão os que eu li e gostei bastante, vou tentar ir atualizando enquanto vou lendo mais.
+
+- [Código Limpo: Habilidades Práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-Limpo-Robert-C-Martin-ebook/dp/B085Q2K632/ref=sr_1_2?adgrpid=80165353086&dchild=1&gclid=EAIaIQobChMI8OKZ98X16wIVVYCRCh0J_w77EAAYASAAEgLpsvD_BwE&hvadid=426015457136&hvdev=c&hvlocphy=1001648&hvnetw=g&hvqmt=e&hvrand=2382991453628909219&hvtargid=kwd-468856013035&hydadcr=5622_11235117&keywords=c%C3%B3digo+limpo&qid=1600529751&sr=8-2&tag=hydrbrgk-20)
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://www.amazon.com.br/14-H%C3%A1bitos-Desenvolvedores-Altamente-Produtivos-ebook/dp/B08BF7PZZX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=14+dicas+desenvolvedor&qid=1600529797&sr=8-1)
+- [O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software](https://www.amazon.com.br/Programador-Apaixonado-Construindo-carreira-desenvolvimento-ebook/dp/B00VAAM7LE/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Desenvolvedor+apaixonado&qid=1600529856&sr=8-6)
+
+---
+
 Não hesite em entrar em contato comigo para conversar.
 
 [![Linkedin Badge](https://img.shields.io/badge/-BrunoPadilha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brpadilha/)](https://www.linkedin.com/in/brpadilha/)
