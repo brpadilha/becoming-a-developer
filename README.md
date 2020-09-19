@@ -11,7 +11,7 @@ Lembre-se que cada um tem sua particularidade de vida e de assimilação de info
 
 Lembre-se também que trabalhar com desenvolvimento de software não precisa só se amarrar em ficar no computador, é se amarrar em resolver problemas, mas com a linguagem do computador.
 
-As dicas aqui vai estar focada em javascript que é a linguagem que eu me especializei.
+As dicas aqui vão estar focada em javascript que é a linguagem que eu me especializei.
 
 Pegue um cafezinho e vamos lá!
 
