@@ -7,11 +7,11 @@ acabei decidindo migrar para área de desenvolvimento de software. E muitos amig
 fiz para começar a trabalhar com desenvolvimento.
 Então decidi fazer este repositório para mostrar um roadmap para você se tornar um desenvolvedor até mesmo sem faculdade.
 
-Lembre-se que cada um tem sua particularidade de vida e de assimilação de informação, pode ser que você demore mais ou menos do que eu demorei.
+Lembre-se que cada um tem sua particularidade de vida e de assimilação de informação, pode ser que você demore mais ou menos do que eu demorei, e não considere tudo isso como verdade absoluta, veja também outras opiniões.
 
 Lembre-se também que trabalhar com desenvolvimento de software não precisa só se amarrar em ficar no computador, é se amarrar em resolver problemas, mas com a linguagem do computador.
 
-As dicas aqui vão estar focada em javascript que é a linguagem que eu me especializei.
+As dicas aqui vão estar focadas em javascript que é a linguagem que eu me especializei.
 
 Pegue um cafezinho e vamos lá!
 
@@ -28,17 +28,18 @@ Pegue um cafezinho e vamos lá!
 Uma parada que eu acho absurdamente massa na área de desenvolvimento de software
 é de você participar de comunidades de desenvolvimento, lá você
 vai poder encontrar pessoas de diversas senioridades, conversar com elas e ver de perto para onde o mercado está tendendo a ir.
-E aqui na [comunidades.tech](https://comunidades.tech/) é um repositório de comunidades espalhadas por todo o Brasil e você pode facilmente encontrar uma pertinho de você.
+Aqui na [comunidades.tech](https://comunidades.tech/) você vai encontrar um repositório de comunidades espalhadas por todo o Brasil e poden facilmente encontrar uma pertinho de você.
 
 Também tem comunidades online e uma que eu indico demais é a [Impulso.network](https://impulser.me/Uexw0m) onde tem diversos meetups,
-oportunidiades de empregos e chats de diversas linguagens para você tirar dúvidas.
+oportunidades de empregos e chats de diversas tecnnologias para você tirar dúvidas.
 
 ### Github
 
-Faça um [github](https://github.com) logo no primeiro dia dos seus estudos e coloque exatamente tudo lá. Github é uma ferramenta de versionamento de código usado por quase todas as empresas e vai ser muito importante você saber usar.
-Além disso, lá é uma "rede social" de códigos, onde recrutadores e outros desenvolvedores vão poder ver seus códigos e vai ser uma espécie de currículo para você,você vai ver que cada dia que você coloca um código lá
+Crie um [github](https://github.com) logo no primeiro dia dos seus estudos e coloque exatamente tudo que você estiver aprendendo lá. Github é uma ferramenta de versionamento de código usado por quase todas as empresas e vai ser muito importante você saber usar.
+Além disso, lá é uma "rede social" de códigos, onde recrutadores e outros desenvolvedores vão poder ver seus códigos e vai se tornar uma espécie de currículo. Você vai ver que cada dia que você coloca um código lá
 vai preencher o dia com um quadradinho verde como mostrado na imagem abaixo, isso vai mostrar que pelo menos você tem alguma experiência codando.
-[Aqui](https://www.udemy.com/course/git-e-github-para-iniciantes/) você pode fazer um curso gratuito de Git e Github para iniciantes.
+
+[Aqui](https://www.udemy.com/course/git-e-github-para-iniciantes/) vai estar podendo fazer um curso gratuito de Git e Github para iniciantes.
 
 ![github-contribuitions](assets/github-contributions.png)
 
@@ -53,6 +54,7 @@ Estes são os canais que eu sigo:
 - [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Impulso Network](https://www.youtube.com/channel/UChfPxID6Mi1GL3-o4ede6Ew)
+- [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)
 
 ## 1 - Começando com o básico
 
