@@ -1,5 +1,7 @@
-# Se tornando um desenvolvedor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-[![](https://img.shields.io/twitter/follow/brpadilha.svg?style=social)](https://twitter.com/intent/follow?screen_name=brpadilha)
+# Se tornando um desenvolvedor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![](https://img.shields.io/twitter/follow/brpadilha.svg?style=social)](https://twitter.com/intent/follow?screen_name=brpadilha)
+
+
+
 Olá, Meu nome é Bruno Padilha e trabalho como engenheiro de software desde o começo de 2020.
 
 Eu me formei em engenharia mecânica no final de 2018 e acabei ficando alguns meses sem conseguir emprego como engenheiro mecânico, com isso
