@@ -13,6 +13,10 @@ Lembre-se também que trabalhar com desenvolvimento de software não precisa só
 
 As dicas aqui vai estar focada em javascript que é a linguagem que eu me especializei.
 
+Pegue um cafezinho e vamos lá!
+
+<div style="text-align:center"><img src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/dia-orgulho-geek.gif" /></div>
+
 ## 0 - Dicas iniciais
 
 ### Participe de comunidades
@@ -68,7 +72,9 @@ repositório para você poder olhar sempre que tiver dúvidas.
 
 Você também pode usar estes dois sites para usar como pesquisa/estudos, que são: [w3schools.com](https://www.w3schools.com/) e o [developer.mozilla](https://developer.mozilla.org/pt-BR/docs/Web).
 
-## 3 - Agora é para valer
+## 3 - Agora é pra valer
+
+<div style="text-align:center"><img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></div>
 
 ### Bootcamp
 
@@ -86,7 +92,7 @@ E também sempre vi feedbacks bacanas do [React.js Ninja](https://www.udemy.com/
 
 ### Faculdade
 
-Acho super válido fazer uma faculdade de sistemas de informação, ciencias da computação ou engenharia de software,
+Acho super válido fazer uma faculdade de sistemas de informação, ciências da computação ou engenharia de software,
 principalmente para fazer network, mas faculdade vai durar alguns anos da sua vida.
 
 Tem um repositório que sou apaixonado, que é de um cara que juntou todos os cursos **GRATUITOS** de faculdades no exterior e ela completa uma grade de uma faculdade de
@@ -95,7 +101,7 @@ ciência da computação que é este [aqui](https://github.com/ossu/computer-sci
 ## 4 - Roadmap
 
 Quando eu estava começando a estudar, eu tentava bastante seguir esse [roadmap](https://github.com/kamranahmedse/developer-roadmap) que vai te mostrar uma ideia para você ser um desenvolvedor completo.
-Depois de estudar esses cursos que indiquei, você vai notar que preencheu bastante esse caminho.
+Depois de estudar esses cursos que indiquei, você vai notar que você já preenche bastante esse caminho.
 
 ## 5 - E as vagas?
 
