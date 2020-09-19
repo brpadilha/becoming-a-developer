@@ -15,7 +15,11 @@ As dicas aqui vai estar focada em javascript que é a linguagem que eu me especi
 
 Pegue um cafezinho e vamos lá!
 
-<div style="text-align:center"><img src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/dia-orgulho-geek.gif" /></div>
+<center>
+
+![coffe](https://media2.giphy.com/avatars/good-morning/mBgOAyM6ww8i.gif)
+
+</center>
 
 ## 0 - Dicas iniciais
 
@@ -74,7 +78,11 @@ Você também pode usar estes dois sites para usar como pesquisa/estudos, que s�
 
 ## 3 - Agora é pra valer
 
-<div style="text-align:center"><img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></div>
+<center>
+
+![fire](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+</center>
 
 ### Bootcamp
 
