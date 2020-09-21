@@ -57,6 +57,7 @@ Estes são os canais que eu sigo:
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Impulso Network](https://www.youtube.com/channel/UChfPxID6Mi1GL3-o4ede6Ew)
 - [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)
+- [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 
 ## 1 - Começando com o básico
 
